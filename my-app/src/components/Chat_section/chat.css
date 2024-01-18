@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.chat_body{
+    min-height: 100vh;
+    display: flex;
+   
+     justify-content: space-between;
+    
+    /* background-color: rgb(225, 224, 248); */
+}
+
+.chat_body .chat_section{
+    /* height: 200px; */
+    width: 60%;
+    background-color: rgb(224, 240, 234);
+}
+
+.chat_section .User_section{
+    height: 50px;
+    background-color: white;
+}
