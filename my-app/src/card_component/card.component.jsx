@@ -6,7 +6,7 @@ const card=({s})=>{
     return(
         <div className="card">
           <div className="photo">
-             
+            <img src={s.profilepic}/> 
           </div>
           <div className="info">
               <span>{s.name}</span>

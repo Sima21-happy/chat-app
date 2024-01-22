@@ -3,6 +3,11 @@
   display: flex;
   justify-content: space-evenly;
   padding: 20px;
-  background-color: pink;
-}
+ /* to wrap the content   */
+  /* flex-wrap: wrap; */
 
+  /* jati screen ma dekhinxa tetti matra dekhauni aru hide */
+  overflow: hidden;
+  overflow-x:auto;
+  background-color: rgb(209, 169, 176);
+}

@@ -1,0 +1,23 @@
+.Nav_bar{
+    height: auto;
+    width: 100%;
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
+.Nav_bar ul{
+    list-style: none;
+    margin-left: 550px;
+}
+.Nav_bar ul li{
+    display: inline-block;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 100px;
+    
+}
+.Nav_bar img{
+    border-radius: 50%;
+    /* margin-right: 600px; */
+}

@@ -1,0 +1,11 @@
+.signUpIn{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(rgb(216, 195, 195), rgb(127, 219, 127), rgb(102, 102, 184));
+     padding: 30px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+
+
+}

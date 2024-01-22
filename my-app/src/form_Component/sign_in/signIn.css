@@ -1,0 +1,40 @@
+.signIn{
+    height: 500px;
+    width: 45%;
+    background-color: rgb(203, 69, 69);
+    box-shadow: 0px 7px 8px ;
+}
+.signIn h2{
+    font-size: 20px;
+    color: rgb(30, 22, 22);
+    text-align: center;
+}
+
+
+  .signIn form{
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+  }
+  
+  .signIn input{
+      border-radius: 10px;
+      margin-bottom:10px ;
+  }
+  
+  /* .signIn .btn1{
+      text-align: center; */
+     
+  
+/* 
+  .signIn button {
+    border-radius: 10px;
+    box-shadow: 0px 3px 0px 0px black;
+    
+   
+   
+  } */
+  
+  
+  
+  
